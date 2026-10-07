@@ -1,2 +1,4 @@
 # jltrucking
-Hiring Applications
+
+index.html
+logo.png
